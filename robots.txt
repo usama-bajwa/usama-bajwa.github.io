@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://usamabajwa040.github.io/sitemap.xml
+Sitemap: https://usama-bajwa.github.io/sitemap.xml
+
